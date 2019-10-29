@@ -10,5 +10,5 @@ VERSION or DATE:20/10/2019
 HOW TO START THIS PROJECT: - Compile and Right click on prime event class and press new primeEvent() option
                            - At the left side we get object so right click on that and run void UI() method
                            - Now application window pops up and here you go...
-AUTHORS: Shrey, Sweedal, Lea, Utkarsh
+AUTHORS: Shrey
 USER INSTRUCTIONS: Follow User Guide
