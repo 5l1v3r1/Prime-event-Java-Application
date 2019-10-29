@@ -1,0 +1,9 @@
+1,swee@gmail.com,Sweedal?HM1,Sweedal,Mendonca,Favourite color,black,613455660
+2,rhea@gmail.com,Rhea123@,Rhea,Luke,Favourite color,white,61234455
+3,sammy@gmail.com,Sammy123$,Samantha,Steven,Favourite color,blue,233445556
+4,savi@gmail.com,Savio123!,Savina,Colaco,Favourite color,white,034555678
+5,shrey@gmail.com,Shrey@123,shrey,chhaiya,Favourite color,Green,912345600
+6,shreychhaiya@gmail.com,Shrey@1234,shrey,chhaiya,Favourite color,Red,+61123456789
+7,avi@gmail.com,Avnny12345^,Avny,Smith,Place of birth ,New york,61344020930
+8,ros@hotmail.com,Rosh@123,Rosh,Avil,Best Friend,Ryan,19003892
+9,helloworld@gmail.com,Shrey@123,hello,world,Favourite color,red,9000000900

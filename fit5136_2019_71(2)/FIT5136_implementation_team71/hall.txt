@@ -1,0 +1,12 @@
+wedding reception ; 110 Station Road Caulfield;studentHouse;swee@gmail.com;1001
+weddings ceremonies  birthday parties; 233 Bell Street Clayton;ABCD123;swee@gmail.com;1002
+birthday parties;1 a road Caulfield;Camp ;swee@gmail.com;1003
+Anniversary birthday ;2 b street Clayton;acbd;rhea@gmail.com;2001
+wedding ceremony;3 c road Flinder;HIGK;sammy@gmail.com;3001
+Anniversary birthday;20 d road Clayton;KLMN;sammy@gmail.com;3002
+Wedding reception ceremony anniversary ;Caulfield;MonashUni;swee@gmail.com;1006
+Wedding ceremony, Anniversary, Birthday;Ormond ;Mango;swee@gmail.com;1008
+wedding;epping;hero;shrey@gmail.com;4014
+party;flinders street;hotel park avenue;shrey@gmail.com;4015
+Wedding ceremony, Anniversary, Birthday;caulfied east;hotel villa;shreyc@gmail.com;1018
+birthday,marriage;caulfield east;dudley;helloworld@gmail.com;1020

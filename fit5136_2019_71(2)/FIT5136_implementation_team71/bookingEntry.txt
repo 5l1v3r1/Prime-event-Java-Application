@@ -1,0 +1,6 @@
+hall4,27/11/2019,priva@gmail.com,owner1@gmail.com,true,1000.0
+hall3,27/11/2019,priva@gmail.com,owner1@gmail.com,true,2000.0
+MonashUni,09/09/2020,ad@gmail.com,swee@gmail.com,true,1212.0
+Mango,22/11/2019,ad@gmail.com,swee@gmail.com,true,90000.0
+hotel villa,20/12/2019,rohan@gmail.com,shreyc@gmail.com,true,10000.0
+dudley,25/10/2019,samsung@gmail.com,helloworld@gmail.com,true,30000.0

@@ -1,0 +1,11 @@
+hall3,27/11/2019,priva@gmail.com,owner1@gmail.com,false
+hall3,12/12/2001,priva@gmail.com,swee@gmail.com,false
+MonashUni,09/09/2020,ad@gmail.com,swee@gmail.com,false
+Mango,22/11/2019,ad@gmail.com,swee@gmail.com,false
+qwerty,12/12/2001,ad@gmail.com,swee@gmail.com,false
+hotel villa,20/12/2019,rohan@gmail.com,shreyc@gmail.com,false
+HIGK,21/10/2019,rohan@gmail.com,sammy@gmail.com,false
+studentHouse,21/10/2109,ad@gmail.com,swee@gmail.com,false
+HIGK,21/12/2019,ad@gmail.com,sammy@gmail.com,false
+ABCD123,22/12/2019,shreyh@gmail.com,swee@gmail.com,false
+dudley,25/10/2019,samsung@gmail.com,helloworld@gmail.com,false

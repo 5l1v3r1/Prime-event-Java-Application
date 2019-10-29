@@ -1,0 +1,12 @@
+1,priva@gmail.com,Shrey@123,Prival,Smith,Best Friend,Sally,134975359
+2,linsey@gmail.com,Linsey123#,Linsey,White,Best Friend,Steve,17899274
+3,dell@yahoo.co.in,Della12345%,Dell,George,Place of birth ,San Jose,1563826848
+4,delia@gmail.in,Delia111@,Delia,Aru,Best Friend,Deena,18393839
+5,zoo@gmail.com,Zoo1234$,Ara,Zoo,Favourite color,red,7292020
+6,sanma@hotmail.com,@Sanya123,Sanya,Ma,Favourite color,blue,123567
+7,wfcew@gmail.com,Shrey@123,er,er,Favourite color,green,232
+8,shrey@gmail.com,Shrey@123,shrey,chhaiya,Favourite color,Green,0000000000
+9,ad@gmail.com,Shrey@123,shrey,chhaiya,Favourite color,red,9090
+10,west@gmail.com,West@123#,West,Lui,Favourite color,white,109380303
+11,shreyh@gmail.com,Shrey@123,shey,chhaiya,Favourite color,red,234124123
+12,samsung@gmail.com,Shrey@123,samsung,co,Best Friend,apple,+61899999999
